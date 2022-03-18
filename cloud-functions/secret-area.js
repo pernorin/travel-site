@@ -1,3 +1,5 @@
+//https://nifty-hugle-da16f9.netlify.app/.netlify/functions/secret-area
+
 exports.handler = function (event, context, callback) {
 	const secretContent = `
   <h3>Welcome to the secret area</h3>
